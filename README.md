@@ -4,7 +4,7 @@
 
 &emsp;
 
-- 🔭 I’m currently working as Freelancer at [christianmiguez.com](https://christianmiguez.com/) and doing that I love: Web Development.
+- 🔭 I’m currently working as a Freelancer at [christianmiguez.com](https://christianmiguez.com/) and doing that I love: Web Development.
 - 📚 I'm also doing the [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), an introduction to the intellectual enterprises of computer science and the art of programming
 
 - 🌱 In free time I also playing with **Python and Sveltkit**
