@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">I'm Chris. Full Stack Developer
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">I'm Chris. Full Stack Web Developer
 
 <img align="right" alt="GIF" src="https://christianmiguez.com/assets/images/me.webp" />
 
