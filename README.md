@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a Freelancer at [christianmiguez.com](https://christianmiguez.com/) and doing that I love: Web Development.
 - 📚 I'm also studying [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), an introduction to the intellectual enterprises of computer science and the art of programming
 
-- 🧪 In my free time I'm playing with **Svelte**
+- 🧪 In my free time I'm playing with **Astro**
 
 - 💬 Ask me about **Web Development**, I looking forward to help you :)
 
