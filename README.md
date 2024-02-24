@@ -5,7 +5,7 @@
 &emsp;
 
 - 🔭 I’m currently working as a Freelancer at [christianmiguez.com](https://christianmiguez.com/) and doing that I love: Web Development.
-- 📚 I'm also studying [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), an introduction to the intellectual enterprises of computer science and the art of programming
+- 📚 I'm also studying Bachelor's Degree in Systems at University ORT Uruguay
 
 - 🧪 In my free time I'm playing with **Astro**
 
